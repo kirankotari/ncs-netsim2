@@ -1,3 +1,5 @@
+## Due to name conflicts ncs-netsim2 has been moved to [netsim-bot](https://github.com/kirankotari/netsim-bot)
+
 # Ncs-Netsim2
 
 ncs-netsim is a great tool, but it lack of following features which are developed as part of ncs-netsim2
