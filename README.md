@@ -1,4 +1,4 @@
-## Due to name conflicts ncs-netsim2 has been moved to [netsim-wrapper](https://github.com/kirankotari/netsim-wrapper)
+## Due to name conflicts ncs-netsim2 has been moved to [netsim-wrapper](https://github.com/NSO-developer/netsim-wrapper)
 
 # Ncs-Netsim2
 
